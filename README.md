@@ -1,4 +1,5 @@
 Projects
+
 Decentralized Health Data Storage System
 
 A blockchain-powered healthcare data management platform designed to provide secure, tamper-proof, and decentralized storage of patient records. The system leverages IPFS for distributed file storage and blockchain technology for data integrity verification. Implemented secure access control mechanisms and identity verification workflows to ensure that only authorized users can access sensitive medical information.
