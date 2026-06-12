@@ -12,11 +12,7 @@ Developed a data-driven financial analysis system capable of identifying market 
 
 Tech Stack: Python, Machine Learning, Data Analysis, PostgreSQL
 
-PropShare
 
-A blockchain-based fractional real estate ownership platform that enables multiple investors to collectively own and manage real estate assets through tokenized ownership. Designed and implemented smart contract logic for ownership management, investment tracking, and transaction transparency while providing a modern web interface for investors.
-
-Tech Stack: MERN Stack, Solidity, Ethereum, Smart Contracts
 
 Additional Areas of Interest
 Full Stack Web Application Development
