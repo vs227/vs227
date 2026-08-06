@@ -6,7 +6,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vs227&style=for-the-badge"/>
 
 </div>
 
@@ -21,7 +20,7 @@ I build scalable backend systems, AI-powered applications, and modern developer 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,express,js,ts,mongodb,postgres,supabase,docker,git,github,linux,java,solidity,html,css,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,express,js,ts,mongodb,postgres,supabase,docker,git,github,linux,java,solidity,html,css,&perline=9"/>
 </p>
 
 ---
@@ -52,15 +51,11 @@ I build scalable backend systems, AI-powered applications, and modern developer 
 
 <p align="center">
 
-<a href="https://github.com/vs227">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/vaishnav-shinde-815871260/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:vaishnavshinde186@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
