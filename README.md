@@ -26,15 +26,6 @@ I build scalable backend systems, AI-powered applications, and modern developer 
 
 ---
 
-## GitHub Dashboard
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vs227&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs227&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## Development Activity
 
 <p align="center">
