@@ -1,114 +1,125 @@
 <div align="center">
 
-# Vaishnav Shinde
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:06B6D4&text=Vaishnav%20Shinde&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=60"/>
 
-### Full Stack Developer • AI Developer • Backend Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=750&lines=Building+Scalable+Applications;FastAPI+%7C+React+%7C+Python;AI+Powered+Developer+Tools;Backend+Engineering;Always+Learning"/>
 
-<p>
-Building scalable applications, intelligent developer tools, and AI-powered platforms with modern technologies.
-</p>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;FastAPI+%7C+React+%7C+Python;Building+Developer+Platforms;Always+Learning+New+Technologies" />
-
-<p>
-<a href="https://github.com/vs227">
-<img src="https://komarev.com/ghpvc/?username=vs227&style=for-the-badge&color=blue"/>
-</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=vs227&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am a Full Stack Developer focused on building scalable software, AI-powered applications, and backend systems. I enjoy solving real-world problems through clean architecture, automation, and modern technologies while continuously exploring Artificial Intelligence, Retrieval-Augmented Generation, distributed systems, and cloud-native development.
+I enjoy building scalable backend systems, AI-powered applications, and modern developer platforms. My interests include Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation, distributed systems, backend engineering, and cloud-native development.
 
 ---
 
-## Tech Stack
+## Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,express,js,ts,mongodb,postgres,supabase,docker,git,github,linux,java,solidity,html,css,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,express,js,ts,mongodb,postgres,supabase,docker,git,github,linux,java,solidity,html,css,vscode&perline=9"/>
 </p>
 
 ---
 
-## GitHub Statistics
+## Profile Overview
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vs227&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs227&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vs227&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vs227&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vs227&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vs227&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## GitHub Streak
+## Activity
 
 <p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vs227&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## Contribution Calendar
+
+<p align="center">
+
 <img src="https://streak-stats.demolab.com?user=vs227&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## Contribution Graph
+## Featured Repositories
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vs227&theme=tokyo-night&hide_border=true"/>
+
+<a href="https://github.com/vs227/Beacon">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vs227&repo=Beacon&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/vs227/Job-Aggregator">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vs227&repo=Job-Aggregator&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/vs227/SIH">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=vs227&repo=SIH&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/vs227">
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=vs227&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+</a>
+
 </p>
 
 ---
 
-## GitHub Trophies
+## Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vs227&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vs227&theme=algolia&row=2&column=3&no-frame=true&margin-w=20"/>
+
 </p>
 
 ---
 
 ## Contribution Snake
 
-> Create the GitHub Action before enabling this image.
-
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/vs227/vs227/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
-
----
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| Beacon | AI platform for building Retrieval-Augmented Generation applications through a unified API | FastAPI, React, Python, PostgreSQL |
-| Job Aggregator | Intelligent job aggregation platform with automated email alerts | FastAPI, Supabase, React |
-| Decentralized Health Storage | Blockchain-based secure healthcare records using distributed storage | Solidity, IPFS, React, Node.js |
-| Financial Pattern Prediction | Machine learning system for market analysis and strategy backtesting | Python, ML, PostgreSQL |
-
----
-
-## Current Focus
-
-- Artificial Intelligence
-- FastAPI
-- React
-- Backend Architecture
-- Retrieval-Augmented Generation
-- Machine Learning
-- Docker
-- PostgreSQL
-- System Design
 
 ---
 
 ## GitHub Metrics
 
-> Generate this once using GitHub Metrics Action.
-
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/vs227/vs227/main/github-metrics.svg"/>
+
 </p>
 
 ---
@@ -116,7 +127,12 @@ I am a Full Stack Developer focused on building scalable software, AI-powered ap
 ## Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+
+<a href="https://github.com/vs227">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -124,15 +140,12 @@ I am a Full Stack Developer focused on building scalable software, AI-powered ap
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vs227">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-*"Code. Build. Learn. Improve."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:2563EB,100:06B6D4"/>
 
-</div>
+</p>
