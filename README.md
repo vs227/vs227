@@ -1,13 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:06B6D4&text=Vaishnav%20Shinde&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=750&lines=Building+Scalable+Applications;FastAPI+%7C+React+%7C+Python;AI+Powered+Developer+Tools;Backend+Engineering;Always+Learning"/>
-
-<br><br>
-
-
-</div>
 
 ---
 
