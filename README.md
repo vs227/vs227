@@ -1,6 +1,3 @@
-
----
-
 ## About
 
 I build scalable backend systems, AI-powered applications, and modern developer platforms. My interests include Artificial Intelligence, Machine Learning, Retrieval-Augmented Generation (RAG), distributed systems, backend engineering, and cloud-native development.
